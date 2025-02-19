@@ -16,7 +16,7 @@ Using lazy.nvim:
 return {
   -- Other plugins...
   {
-    "Chamal1120/easyEdit.nvim",
+    "Chamal1120/easyedit.nvim",
     config = function()
       require("easyEdit").setup()
     end,
